@@ -1,2 +1,2 @@
 # hello-word
-change image
+change picture
